@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+table,td,th{
+	border:1px black solid;
+	border-collapse:collapse;
+}
+td,th{
+	width:90px;
+}
+th{
+	text-align:left;
+}
+th{
+	background-color:#FF5734;
+	color:white
+}
+.waist{
+	background-color:#E4755D;
+	color:white
+}
+.chest{
+	background-color:#E3BBB3;
+}
+.sleeve{
+	background-color:#D8E4E0;
+}
+.values{
+	text-align:right;
+}
